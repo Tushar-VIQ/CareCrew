@@ -56,9 +56,9 @@ It:
 ```mermaid
 flowchart TD
     subgraph User["User"]
-        A[Lab Report (PDF)]
-        B[X-Ray (Image)]
-        C[Health Vitals (CSV)]
+        A[Lab Report PDF]
+        B[X-Ray Image]
+        C[Health Vitals CSV]
         D[Text Query]
     end
 
@@ -80,17 +80,14 @@ flowchart TD
     B --> E1
     C --> E2
     D --> E2
-
     E1 --> E2
     E2 --> E3
     E3 --> M2
     E2 --> M1
-
     E3 --> E4
     E2 --> E4
     E4 --> E5
     E5 --> E6
-
     E6 --> User
 
 ```
