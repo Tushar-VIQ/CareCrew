@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Submission Checklist  
-- [x] **Demo Video (≤ 3 mins):** [Demo_Link]([https://drive.google.com/file/d/1qevw-eD6HzrsckiROaSUMB0Ylk8X0sR_/view?usp=drive_link])
+- [x] **Demo Video (≤ 3 mins):**  [You can watch the demo video here](https://drive.google.com/file/d/1qevw-eD6HzrsckiROaSUMB0Ylk8X0sR_/view?usp=drive_link).
 - [ ] **Live Deployment URL** — *not applicable* (local setup only)  
 - [x] **Comprehensive Local Run Steps**  
 - [x] **≥2 Specialized Agents** (✅ 6+ agents implemented)  
