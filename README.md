@@ -8,12 +8,12 @@
 ---
 
 ## 🚀 Submission Checklist  
-- [x] **Demo Video (≤ 3 mins):** [PLACEHOLDER — insert Google Drive link here]  
+- [x] **Demo Video (≤ 3 mins):** [Demo_Link](https://example.com)
 - [ ] **Live Deployment URL** — *not applicable* (local setup only)  
 - [x] **Comprehensive Local Run Steps**  
 - [x] **≥2 Specialized Agents** (✅ 6+ agents implemented)  
 - [x] **MCP Integration** (FDA + KB servers)  
-- [x] **Multimodal Inputs Demonstrated** (PDFs, X-rays, CSVs, text)  
+- [x] **Multimodal Inputs Demonstrated** (PDFs, X-rays, text)  
 - [x] **Dependencies Listed** (`requirements.txt`)  
 - [x] **Architecture Diagram Included**  
 - [x] **Ethics & Safety Considerations**  
