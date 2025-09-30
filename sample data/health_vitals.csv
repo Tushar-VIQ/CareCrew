@@ -1,0 +1,3 @@
+Patient_ID,Test,Result,Normal_Range
+101,Glucose,155 mg/dL,70-110 mg/dL
+102,Blood Pressure,150/95 mmHg,120/80 mmHg
