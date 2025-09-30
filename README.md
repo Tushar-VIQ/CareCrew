@@ -55,23 +55,23 @@ It:
 
 ```mermaid
 flowchart TD
-    subgraph User["👩‍⚕️ User"]
-        A[📄 Lab Report (PDF)]
-        B[🩻 X-Ray (Image)]
-        C[📊 Health Vitals (CSV)]
-        D[💬 Text Query]
+    subgraph User["User"]
+        A[Lab Report (PDF)]
+        B[X-Ray (Image)]
+        C[Health Vitals (CSV)]
+        D[Text Query]
     end
 
-    subgraph Orchestrator["🧠 Crew Orchestrator"]
-        E1[📑 Document Analyzer]
-        E2[🧾 Medical Context Agent]
-        E3[📚 Knowledge Base Agent]
-        E4[🧩 Reasoning Agent]
-        E5[💊 Treatment Planner Agent]
-        E6[💡 Advisory Agent]
+    subgraph Orchestrator["Crew Orchestrator"]
+        E1[Document Analyzer]
+        E2[Medical Context Agent]
+        E3[Knowledge Base Agent]
+        E4[Reasoning Agent]
+        E5[Treatment Planner Agent]
+        E6[Advisory Agent]
     end
 
-    subgraph MCP["🔗 MCP Servers"]
+    subgraph MCP["MCP Servers"]
         M1[(FDA Server)]
         M2[(Knowledge Base Server)]
     end
