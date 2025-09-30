@@ -2,7 +2,7 @@
 
 ![Hackathon](https://img.shields.io/badge/MachineHack-Groq%20Hackathon-blueviolet)  
 ![Python](https://img.shields.io/badge/Python-3.10+-green)  
-![Agents](https://img.shields.io/badge/Agents-8-brightgreen)  
+![Agents](https://img.shields.io/badge/Agents-6-brightgreen)  
 ![MCP](https://img.shields.io/badge/MCP-FDA%20%26%20KB-orange)  
 
 ---
