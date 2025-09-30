@@ -29,7 +29,7 @@ Healthcare professionals must synthesize information from **lab reports, prescri
 **CareCrew** is a **multi-agent healthcare assistant** powered by Groq.  
 
 It:  
-- Accepts **multimodal inputs** (PDFs, X-rays, CSVs, text).  
+- Accepts **multimodal inputs** (PDFs, X-rays, text).  
 - Uses **specialized agents** for context extraction, reasoning, and treatment planning.  
 - Connects to **MCP servers** for FDA data and knowledge base lookups.  
 - Provides **low-latency outputs** using Groq’s hardware acceleration.  
@@ -58,7 +58,7 @@ flowchart TD
     subgraph User["User"]
         A[Lab Report PDF]
         B[X-Ray Image]
-        C[Health Vitals CSV]
+        C[Health Vitals Data]
         D[Text Query]
     end
 
@@ -136,7 +136,7 @@ python "CareCrew/app.py"
 ## 📂 Datasets & Modalities  
 - **PDFs** → lab reports, prescriptions, treatment guidelines.  
 - **Images** → X-ray scans.  
-- **CSVs** → patient vitals (`health_vitals.csv`), MTSamples dataset.  
+- **CSVs** → patient vitals (`health_vitals`), MTSamples dataset.  
 - **Text** → orchestrated prompts & outputs.  
 
 ---
