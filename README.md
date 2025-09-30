@@ -38,7 +38,7 @@ It:
 
 ## 🏗️ System Architecture  
 
-### 👩‍⚕️ Agents (8 total)  
+### 👩‍⚕️ Agents (6+)  
 - **Advisory Agent** → synthesizes recommendations.  
 - **Medical Context Agent** → interprets patient history.  
 - **Treatment Planner Agent** → proposes treatment plans.  
@@ -154,10 +154,6 @@ python "CareCrew/app.py"
 
 ---
 
-## 👥 Team  
-- **Tushar Pawar** — Team Lead  
-- **Om Belkar** — Developer  
-- **Om Waghmare** — Developer  
 
 ## 📜 License  
 [MIT License](LICENSE)  
