@@ -147,13 +147,6 @@ python "CareCrew/app.py"
 
 ---
 
-## 🔒 Ethics & Safety  
-- ⚠️ **Disclaimer:** This is a prototype — *not medical advice*.  
-- No real PHI — only synthetic/sample data used.  
-- Agents include disclaimers and handle uncertain cases conservatively.  
-
----
-
 
 ## 📜 License  
 [MIT License](LICENSE)  
