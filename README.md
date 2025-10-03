@@ -123,7 +123,7 @@ python "CareCrew/app.py"
 
 ## 🎥 Demo  
 
-- **Video (≤ 3 mins):** [PLACEHOLDER — insert Google Drive link here]  
+- ** Demo Video:**  [You can watch the demo video here](https://drive.google.com/file/d/1qevw-eD6HzrsckiROaSUMB0Ylk8X0sR_/view?usp=drive_link).
 - **Live Deployment:** *Not applicable (local only)*  
 
 ### Sample Workflow  
